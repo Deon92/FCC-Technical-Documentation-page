@@ -1,0 +1,320 @@
+#Description-heading{
+    text-align: center;
+    border-bottom: solid;
+    border-color: grey;
+  }
+  ul{
+    list-style: none;
+  }
+  #Introduction li{
+    padding-left: 400px;
+    text-indent: 20px;
+    text-align-last: justify;
+  }
+  #HTML li{
+    padding-left: 400px;
+  }
+  #CSS li{
+    padding-left: 400px;
+  }
+  #JavaScript li{
+    padding-left: 400px;
+  }
+  #Bootstrap li{
+    padding-left: 400px;
+  }
+  #React li{
+    padding-left: 400px;
+  }
+  #jQuery li{
+    padding-left: 400px;
+  }
+  #JSON-APIs li{
+    padding-left: 400px;
+  }
+  #Node-Exp li{
+    padding-left: 400px;
+  }
+  #Python li{
+    padding-left: 400px;
+  }
+  #General li{
+    padding-left: 400px;
+  }
+  #navbar{
+    position: fixed;
+    min-width: 100px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid; 
+    border-color: grey;
+  }
+  #navbar ul {
+    height: 88%;
+    padding: 0;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .nav-link{
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    padding-right: 600px;
+  }
+  #Intro-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #HTML-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+    }
+  #CSS-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #JS-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #Bs-Head{
+    padding-left: 400px;
+    text-underline: underline;
+  }
+  #React-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #JQ-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #JA-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #NE-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #Pyt-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #Gen-Head{
+    padding-left: 400px;
+    text-decoration: underline;
+  }
+  #Intro-p{
+    padding-left: 400px;
+  }
+  #Intro-par{
+    padding-left: 400px;
+  }
+  #HTML-p{
+    padding-left: 400px;
+  }
+  #HTML-par{
+    padding-left: 400px;
+  }
+  #CSS-p{
+    padding-left: 400px;
+  }
+  #CSS-par{
+    padding-left: 400px;
+  }
+  #JS-p{
+    padding-left: 400px;
+  }
+  #JS-par{
+    padding-left: 400px;
+  }
+  #Bs-p{
+    padding-left: 400px;
+  }
+  #BS-par{
+    padding-left: 400px;
+  }
+  #React-p{
+    padding-left: 400px;
+  }
+  #React-par{
+    padding-left: 400px;
+  }
+  #JQ-p{
+    padding-left: 400px;
+  }
+  #JQ-par{
+    padding-left: 400px;
+  }
+  #JA-p{
+    padding-left: 400px;
+  }
+  #JA-par{
+    padding-left: 400px;
+  }
+  #NE-p{
+    padding-left: 400px;
+  }
+  #NE-par{
+    padding-left: 400px;
+  }
+  #P-p{
+    padding-left: 400px;
+  }
+  #P-par{
+    padding-left: 400px;
+  }
+  #Gen-p{
+    padding-left: 400px;
+  }
+  #Gen-par{
+    padding-left: 400px;
+  }
+  .row-1{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-2{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-3{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-4{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-5{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-6{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-7{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-8{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-9{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-10{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-11{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  @media(max-width: 120px){
+  .row-1{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-2{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-3{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-4{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+  }
+  .row-5{
+    width: 90%;
+    border-style: double;
+    border-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: #D4D4D4;
+    }}
